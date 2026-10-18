@@ -1,5 +1,5 @@
 export const gymData = {
-  name: "MYGYM",
+  name: "Stoners",
   hero: {
     title: "Transform Your Body with Expert Guidance",
     subtitle: "Personalized training programs designed to help you reach your peak performance, whether you're lifting heavy or finding your flow.",
