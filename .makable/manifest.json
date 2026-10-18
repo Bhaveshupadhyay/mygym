@@ -1,5 +1,10 @@
 {
   "format": "makable-site",
   "version": 2,
-  "projectId": "ac8d6a03-b8d5-4096-a67d-e6564ae26f59"
+  "projectId": "ac8d6a03-b8d5-4096-a67d-e6564ae26f59",
+  "publish": {
+    "target": "github-pages",
+    "projectName": null,
+    "siteUrl": "https://bhaveshupadhyay.github.io/mygym/"
+  }
 }
